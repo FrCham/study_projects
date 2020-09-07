@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>face.qml</file>
+        <file>plug_mephi.jpg</file>
+    </qresource>
+</RCC>
