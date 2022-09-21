@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/icoExit-48.png</file>
+        <file>icons/icoInfo.png</file>
+        <file>icons/icoOpen-48.png</file>
+        <file>icons/icoSave-48.png</file>
+        <file>icons/icoAddAlbum-50.png</file>
+        <file>icons/icoAddArtist-50.png</file>
+        <file>icons/icoAddTrack-50.png</file>
+        <file>icons/icoDelete-50.png</file>
+        <file>icons/icoEdit-48.png</file>
+    </qresource>
+</RCC>

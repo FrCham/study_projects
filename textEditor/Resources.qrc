@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/favorites.png</file>
+        <file>Icons/property.png</file>
+        <file>Icons/bulb.png</file>
+        <file>Icons/font сolor.png</file>
+        <file>Icons/back.png</file>
+        <file>Icons/cancel.png</file>
+        <file>Icons/delete.png</file>
+        <file>Icons/copy.png</file>
+        <file>Icons/cut.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/certificate.png</file>
+        <file>Icons/close file.png</file>
+        <file>Icons/save as.png</file>
+        <file>Icons/save.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/new.png</file>
+        <file>Icons/insert.png</file>
+    </qresource>
+</RCC>
